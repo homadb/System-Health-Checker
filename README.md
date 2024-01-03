@@ -18,16 +18,17 @@ A versatile Bash script for performing comprehensive system health checks on Lin
    git clone https://github.com/homadb/system-health-checker.git
 
 2. Run the script:
-bash system_health_checker.sh
+   ```bash
+   bash system_health_checker.sh
 
 3. Customize checks or thresholds as needed.
 
-##Contribution
+## Contribution
 
 Contributions and suggestions are welcome! Feel free to open an issue or submit a pull request to enhance the script.
 
-##License
+## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 
